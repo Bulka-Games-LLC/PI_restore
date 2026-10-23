@@ -22,9 +22,11 @@
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_ClickerOffer.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_ClickerRewardConfig.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_CommonOffer.json
+./0ec15e10-88c4-11f0-bf25-1fec53a055ba_CompleteOrderTask.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_ConsumeGeneratorConfig.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_Core.Language.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_CurrencyConfig.json
+./0ec15e10-88c4-11f0-bf25-1fec53a055ba_DateTask.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_DefaultBoard.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_EnergyConfig.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_EventClicker.json
@@ -83,12 +85,15 @@
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_MyGameEvent.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_MyShopPage.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_Notifications.RemoteNotification.json
+./0ec15e10-88c4-11f0-bf25-1fec53a055ba_OpenBubbleTask.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_QuestDifficultyConfig.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_QuestLineConfig.json
+./0ec15e10-88c4-11f0-bf25-1fec53a055ba_RealPurchaseTask.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_ResourceConfig.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_RewardChest_battlePass.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_RewardChest_buildings.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_RewardChest_casting.json
+./0ec15e10-88c4-11f0-bf25-1fec53a055ba_SeductionTask.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_SegmentConfig.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_SmartObjects.Analytics.ABTest.json
 ./0ec15e10-88c4-11f0-bf25-1fec53a055ba_SmartObjects.Analytics.ABTestVariant.json
